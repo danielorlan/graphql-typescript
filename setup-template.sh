@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-template_project_name="template-graphql-typescript"
+template_project_name="graphql-typescript"
 
 # console echo colors
 #  \033[1;31m red
